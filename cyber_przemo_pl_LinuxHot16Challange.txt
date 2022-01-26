@@ -1,0 +1,29 @@
+HOT 16 Komendy linuxa
+
+# 1. cd 
+# zmiana katalogu 
+
+# 2. cd var 
+# wchodzi w katalog VAR
+
+# 3. cd / 
+# wychodzi do katalogu wyżej
+
+# 4. mkdir nazwa_katalogu 
+# tworzy katalog o nazwie
+
+# rkdir nazwa_katalogui - kasuje katalog o nazwie
+rm nazwa_pliku - usuwa plik
+ls - pokazuje jakie są w danym miejscu pliki ikatalogi 
+pwd - pokazuje w jakim jestes katalogu
+
+get - pobranie pliku
+mget - pobranie kilkuplików
+
+chmod 
+clear - czyści ekran terminala
+
+ping - sprawdzenie czy hostdziała 
+
+ctrl + shift + c  - kopiuje w terminalu
+ctrl + shift + v  - wkleja tekst w terminal
