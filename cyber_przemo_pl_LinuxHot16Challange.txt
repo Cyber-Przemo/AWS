@@ -1,29 +1,65 @@
-HOT 16 Komendy linuxa
+# AUTOR: Cyberprzemo.pl
 
-# 1. cd 
-# zmiana katalogu 
+# HOT 16
 
-# 2. cd var 
-# wchodzi w katalog VAR
+# 1. cd
+# wchodzi do katalogu głównego serwera
+
+# 2. cd nazwa_katalogu
+# wchodzi w katalog nazwa_katalogu
 
 # 3. cd / 
 # wychodzi do katalogu wyżej
 
 # 4. mkdir nazwa_katalogu 
-# tworzy katalog o nazwie
+# tworzy katalog nazwa_katalogu
 
-# rkdir nazwa_katalogui - kasuje katalog o nazwie
-rm nazwa_pliku - usuwa plik
-ls - pokazuje jakie są w danym miejscu pliki ikatalogi 
-pwd - pokazuje w jakim jestes katalogu
+# 5. rkdir nazwa_katalogu
+# kasuje nazwa_katalogu
 
-get - pobranie pliku
-mget - pobranie kilkuplików
+# 6. rm nazwa_pliku
+# kasuje plik nazwa_pliku.
 
-chmod 
-clear - czyści ekran terminala
+# 7. ls
+# pokazuje co mamy w aktualnym katalogu
 
-ping - sprawdzenie czy hostdziała 
+# 8. clear
+# czyści terminal
 
-ctrl + shift + c  - kopiuje w terminalu
-ctrl + shift + v  - wkleja tekst w terminal
+# 9. ping adres ip
+# sprawdzenie czy działa host
+
+# 10. get
+# Opis... - 
+
+# 11. mget - 
+# Opis... - 
+
+# 12. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 13. komenda
+# Opis... - czyli co to robi. Krótki, w jednej linijce.
+
+# 14. cp nazwa_pliku
+# kopiowanie pliku nazwa_pliku
+
+
+
+
+Skróty klawiaturowe:
+
+# 1. ctrl + shift + v
+# wkleja w terminalu
+
+# 2. ctrl + shift + c
+# kopiuje w terminalu
+
+# 3. ctrl + s
+# zapisuje plik
+
+# 4. ctrl + o
+# otwiera plik
+
+# 3. ctrl + s
+# zapisuje plik
