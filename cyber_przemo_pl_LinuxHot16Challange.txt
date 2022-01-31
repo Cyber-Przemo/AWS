@@ -8,8 +8,8 @@
 # 2. cd nazwa_katalogu
 # wchodzi w katalog nazwa_katalogu
 
-# 3. cd / 
-# wychodzi do katalogu wyżej
+# 3. cd ..
+# wychodzi katalog wyżej
 
 # 4. mkdir nazwa_katalogu 
 # tworzy katalog nazwa_katalogu
@@ -26,25 +26,29 @@
 # 8. clear
 # czyści terminal
 
-# 9. ping adres ip
-# sprawdzenie czy działa host
+# 9. pwd
+# pokazuje w jakim katalogu się znajdujemy
 
-# 10. get
-# Opis... - 
+# 10. rm -r nazwa_katalogu
+# kasuje katalog o nazwa_katalogu
 
 # 11. mget - 
-# Opis... - 
+#  
 
-# 12. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 12. 
+# 
 
-# 13. komenda
-# Opis... - czyli co to robi. Krótki, w jednej linijce.
+# 13. 
+# 
 
 # 14. cp nazwa_pliku
 # kopiowanie pliku nazwa_pliku
 
+# 15.
+#
 
+# 16.
+#
 
 
 Skróty klawiaturowe:
