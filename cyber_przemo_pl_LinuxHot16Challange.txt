@@ -67,3 +67,9 @@ Skróty klawiaturowe:
 
 # 3. ctrl + s
 # zapisuje plik
+
+Putty wklejenie skopiowanej komendy - kliknij prawy myszki
+
+# kodowanie polskich znaków (po zalogowaniu na serwer)
+#sudo locale-gen pl_PL.UTF-8
+#sudo update-locale LANG=pl_PL.UTF-8
